@@ -18,6 +18,8 @@
           helvetica-now-display-ttf
           helvetica-now-micro-otf
           helvetica-now-micro-ttf
+          helvetica-now-text-otf
+          helvetica-now-text-ttf
           sanfrancisco-compact
           sanfrancisco-mono
           sanfrancisco-pro
